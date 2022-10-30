@@ -10,3 +10,7 @@ App is built using:
  - Compose
  - paging-compose
  - Turbine and Junit for unit tests
+
+
+#### Demo:
+![demo](/giphy-explorer.gif)
