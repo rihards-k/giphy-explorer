@@ -13,4 +13,4 @@ App is built using:
 
 
 #### Demo:
-![demo](/giphy-explorer.gif)
+<img src="/giphy-explorer.gif" alt="demo" style="height: 50%; width:50%;"/>
